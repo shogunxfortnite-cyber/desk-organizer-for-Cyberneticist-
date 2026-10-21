@@ -14,3 +14,6 @@ Guys finally v3 made, the last version. This feature an extra pull off mini tabl
 It features a mini slide in table and drawer.
 
 Also it has separate sections for different components.
+
+## BOM
+
