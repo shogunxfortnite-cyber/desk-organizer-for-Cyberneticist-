@@ -16,4 +16,10 @@ It features a mini slide in table and drawer.
 Also it has separate sections for different components.
 
 ## BOM
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Pete print,1,Robu,$26.00,$26.00,https://Robu.in
+Estimated total shipping,1,,,$4.00,
 
+## built for hack club
+
+## half life
