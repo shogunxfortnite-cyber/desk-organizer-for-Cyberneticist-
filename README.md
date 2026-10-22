@@ -20,6 +20,12 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 Pete print,1,Robu,$26.00,$26.00,https://Robu.in
 Estimated total shipping,1,,,$4.00,
 
+## what I added
+
+Added a mini version of it. 
+
+As the full versions cost was around 2k dollars.
+
 ## built for hack club
 
 ## half life
