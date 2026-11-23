@@ -15,6 +15,8 @@ Also it has separate sections for different components.
 
 It contains the sections for a ESP32 , ultrasonic sensors, IR sensors, and a custom section for other types of sensors.
 
+For this desk organizer, we are going to use PETG. 
+
 
 
 ## BOM
