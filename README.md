@@ -8,7 +8,9 @@ V2 made extra drawer slot
 <img width="1919" height="1031" alt="Screenshot 2026-10-14 155248" src="https://github.com/user-attachments/assets/b8a7a19d-040c-4433-9881-7c9f60db7394" />
 <img width="1919" height="1031" alt="1222" src="https://github.com/user-attachments/assets/fb57d989-4357-408b-8a42-e212e2887d1c" />
 Guys finally v3 made, the last version. This feature an extra pull off mini table slot and 2 more storage baxes for screws and mini components like resistors. It also has a magnet slot by chance you need it
-## features 
+
+
+## Features 
 It features a mini slide in table and drawer.
 
 Also it has separate sections for different components.
