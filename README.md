@@ -28,6 +28,14 @@ For this desk organizer, we are going to use PETG.
 
 ## BOM
 
+## Bill of Materials (BOM)
+
+| Item | Description | Qty | Unit Cost | Total Cost | Link |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **3D Printing** | The 3d print (PETG) | 1 | $10.00 | $10.00 | https://printlegion.hackclub.com/ |
+| **Shipping** | shipping cost | 1 | $4.00 | $4.00 | - |
+| **Total** | | | | **$14.00** | |
+
 
 ## what I added
 
