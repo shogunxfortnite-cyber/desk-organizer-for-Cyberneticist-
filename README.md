@@ -1,9 +1,7 @@
 # desk organizer
 
 <img width="1919" height="1031" alt="15th one" src="https://github.com/user-attachments/assets/c540e044-d8b1-4c26-a586-0a15979618f2" />
-made for half life (hack club) check it out on it.
-
-It is a custom desk organizer for techies.
+V1
 <img width="1919" height="1031" alt="Screenshot 2026-10-14 155248" src="https://github.com/user-attachments/assets/850823c9-69aa-4771-86da-6b7dbbbe7c9e" />
 V2 made extra drawer slot
 <img width="1919" height="1030" alt="lol" src="https://github.com/user-attachments/assets/1aa4e39f-7869-4dc7-88c6-f0fbbf91ec56" />
@@ -15,17 +13,19 @@ It features a mini slide in table and drawer.
 
 Also it has separate sections for different components.
 
+It contains the sections for a ESP32 , ultrasonic sensors, IR sensors, and a custom section for other types of sensors.
+
+
+
 ## BOM
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Pete print,1,Robu,$26.00,$26.00,https://Robu.in
-Estimated total shipping,1,,,$4.00,
+
 
 ## what I added
 
 Added a mini version of it. 
 
-As the full versions cost was around 2k dollars.
+As the full versions cost was around 5k dollars.
 
-## built for hack club
+# built for hack club
 
-## half life
+# half life
